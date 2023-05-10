@@ -1,0 +1,54 @@
+.header {
+    margin: 0 auto;
+    height: 90px;
+    background-color: #FFF1B9;
+    background: url(../../img/images.png);
+    text-align: center;
+}
+
+.header__ttl {
+    color: #fff;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    line-height: 90px;
+}
+
+.content__inner {
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 25px;
+    background-color: #FFF1B9;
+}
+
+.content__lists {
+    width: 400px;
+    padding: 20px;
+    border: 3px solid #FFDA96;
+    margin-bottom: 80px;
+}
+
+.content__ttl {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.article {
+    margin: 20px auto;
+}
+
+.section__ttl {
+    margin-bottom: 40px;
+    font-size: 33px;
+    border-bottom: 3px solid #FFDA96;
+    background: linear-gradient(transparent 60%, #FFDA96 60%);
+}
+
+.description {
+    margin-bottom: 40px;
+}
+
+.sub__ttl {
+    font-weight: bold;
+}
